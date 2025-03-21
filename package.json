@@ -1,5 +1,6 @@
 {
   "name": "portfoliov2",
+  "homepage": "https://Marl6.github.io/portfolioV2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +12,6 @@
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
-  "homepage": "https://Marl6.github.io/portfolioV2",
   "dependencies": {
     "antd": "^5.14.1",
     "react": "^19.0.0",
