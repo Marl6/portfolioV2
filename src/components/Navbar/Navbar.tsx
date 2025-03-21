@@ -25,7 +25,7 @@ const Navbar = () => {
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center space-x-8">
             <NavLink
-              to="/"
+              to="/home"
               className={({ isActive }) =>
                 isActive
                   ? "text-primary font-medium relative after:content-[''] after:absolute after:bottom-[-5px] after:left-0 after:w-full after:h-0.5 after:bg-primary"
