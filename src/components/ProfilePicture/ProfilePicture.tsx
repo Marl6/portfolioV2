@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import myPicture from "src/assets/img/marl.jpg";
 
 interface ProfilePictureProps {
   size?: number;
