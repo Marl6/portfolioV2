@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import myPicture from "src/assets/img/marl.jpg";
 
 interface ProfilePictureProps {
   size?: number;
@@ -47,7 +48,7 @@ const ProfilePicture: React.FC<ProfilePictureProps> = ({
       >
         <img
           loading="lazy"
-          src="src/assets/img/marl.jpg"
+          src="/portfolioV2/src/assets/img/marl.jpg"
           alt="Profile"
           className="w-full h-full object-cover"
         />
