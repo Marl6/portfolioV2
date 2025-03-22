@@ -34,10 +34,10 @@ const Works = () => {
     {
       id: 1,
       title: "ScanSeta",
-      imageCard: "src/assets/img/ScanSetaImageCard.png",
+      imageCard: "/portfolioV2/src/assets/img/ScanSetaImageCard.png",
       description:
         "A prescription scanner kiosk that allows users to scan prescriptions and retrieve medicine information.",
-      imageDetails: "src/assets/img/ScanSetaImageDetails.png",
+      imageDetails: "/portfolioV2/src/assets/img/ScanSetaImageDetails.png",
       technologies: ["React", "Python", "SQLite", "Flask", "CRNN"],
       demoLink: "https://example.com",
       githubLink: "https://github.com",
